@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CurrencyConverterApp_1913864</string>
+    <string-array name="currency">
+        <item>USD</item>
+        <item>BR</item>
+    </string-array>
+</resources>
